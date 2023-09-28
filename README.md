@@ -1,2 +1,6 @@
-# Pyl-2.2
-Pyl 2.2 is the successor of Pyl 1.0 and 2.0
+# Pyl 2.2
+Pyl is a High-Level programming language witted in Python, designed to be simple and make terminal applications more easily
+
+# Features
+Pyl 2.2 provides a better syntax and grammar
+
