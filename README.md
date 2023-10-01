@@ -1,13 +1,10 @@
 # Pyl Programming Language
-Pyl is a High-Level interpreted programming language witted in Python, designed to be simple and make terminal applications more easily
-
-# Requirements
-- latest version of Python
+Pyl is a High-Level interpreted programming language writted in C (originally in Python), designed to be simple and make terminal applications more easily
 
 # Set up
-1. Download the Pyl folder
+1. Download the Pyl Ziè folder
 2. Extract it
-3. Type `python shell.py (optionally a pyl script, e.g: os.pyl)` to run the shell
+3. run `shell.exe` to run the shell (to run a pyl script type `shell.exe filename.pyl`)
 
 # Examples
 Pyl provides a very easy and simple syntax, similar to other programming languages like python, java, c and mostly shell
