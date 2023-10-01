@@ -2,7 +2,7 @@
 Pyl is a High-Level interpreted programming language writted in C (originally in Python), designed to be simple and make terminal applications more easily
 
 # Set up
-1. Download the Pyl Ziè folder
+1. Download the Pyl Zip folder
 2. Extract it
 3. run `shell.exe` to run the shell (to run a pyl script type `shell.exe filename.pyl`)
 
