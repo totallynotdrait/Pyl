@@ -1,0 +1,1 @@
+void error(char* classname, int lineint, char* line, char* message);
